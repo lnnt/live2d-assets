@@ -1,6 +1,8 @@
 # 为你的网站加入响应式的2D模型
 ##### 改自[EYHN/hexo-helper-live2d](https://github.com/EYHN/hexo-helper-live2d)
-##### 预览地址：[Live 2D](https://huaji8.top/post/live2d-plugin-2.0)
+##### 预览：[Live 2D](https://huaji8.top/post/live2d-plugin-2.0)
+![live-2d](https://github.com/stepbystep2/live2d-assets/raw/main/preview/live2d-plugin-2.0.jpg)
+##### 国内仓库：[Gitee](https://gitee.com/xxxww/live2d-assets)
 1. 在你的网站根目录下新建一个文件夹，命名为live2d  
 2. 将你喜欢的模型所对应assets-*文件夹，及两个js文件放入你的live2d文件夹中  
 3. 将assets-*文件夹重命名为assets  
